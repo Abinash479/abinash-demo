@@ -1,4 +1,0 @@
-# abinash-demo
-This is my first Git Repository.
-<br>
-Author-Abinash Rana1
